@@ -17,6 +17,7 @@ Link to privacy policy of third party service providers used by the app
 
   * <a href="https://www.google.com/policies/privacy/">Google Play Services</a>
   * <a href="https://firebase.google.com/policies/analytics">Firebase Analytics</a>
+  * <a href="https://yandex.ru/legal/maps_termsofuse/">Yandex.Maps</a>
 
 <b>Log Data</b>
 
