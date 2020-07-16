@@ -1,6 +1,6 @@
 # Privacy policy
 
-<b>iFr0z LLC</b> built the <b>LocTrackCar</b> app as a <b>Free</b> app. This <b/>Service</b> is provided by <b>iFr0z LLC</b> at no cost and is intended for use as is.
+<b>iFr0z LLC</b> built the <b>LocTrackCar</b> app as a <b>Free</b> app. This <b>Service</b> is provided by <b>iFr0z LLC</b> at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
