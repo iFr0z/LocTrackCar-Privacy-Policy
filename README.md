@@ -1,12 +1,12 @@
 # Privacy policy
 
-<b>iFr0z LLC</b> built the <b>LocTrackCar</b> app as a <b>Free</b> app. This <b>Service</b> is provided by <b>iFr0z LLC</b> at no cost and is intended for use as is.
+<b>Коршиков Алексей Максимович</b> built the <b>LocTrackCar: навигация и парковка</b> app as a <b>Free</b> app. This SERVICE is provided by Коршиков Алексей Максимович at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at <b>LocTrackCar</b> unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at <b>LocTrackCar: навигация и парковка</b> unless otherwise defined in this Privacy Policy.
 
 <b>Information Collection and Use</b>
 
@@ -17,7 +17,6 @@ For a better experience, while using our Service, I may require you to provide u
 Link to privacy policy of third party service providers used by the app
 
   * <a href="https://www.google.com/policies/privacy/">Google Play Services</a>
-  * <a href="https://firebase.google.com/policies/analytics">Firebase Analytics</a>
   * <a href="https://yandex.ru/legal/maps_termsofuse/">Yandex.Maps</a>
 
 <b>Log Data</b>
@@ -57,7 +56,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of <b>2020-07-15</b>
+This policy is effective as of <b>2023-06-18</b>
 
 <b>Contact Us</b>
 
